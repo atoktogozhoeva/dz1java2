@@ -14,7 +14,7 @@ public final class Bmw extends Car {
         System.out.println("biib,biib");
 
     }
-    public final String printInfo(){
+    public String printInfo(){
         return super.printInfo();
     }
 

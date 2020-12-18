@@ -7,6 +7,7 @@ public class Main {
          Car car1 = new Car("X5",4.5,2019,Color.GREEN);
          Car car2 = new Car ("X6", 5.7,2020,Color.BLACK);
          car1.makeVoice("boom,boom",3);
+         car2.makeVoice("rrrrrrrr",2);
 
         System.out.println(car1.printInfo());
         Bmw bmw1 = new Bmw("man",5.1,2019, "P6",Color.WHITE);
